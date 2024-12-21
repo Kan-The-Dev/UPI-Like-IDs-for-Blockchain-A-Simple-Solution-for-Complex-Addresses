@@ -11,7 +11,7 @@ Poor User Experience: Non-technical users find managing these addresses daunting
 -UPI-Like IDs for Blockchain Transactions
 
 A short, human-readable ID replaces complex blockchain addresses.
-Example: john@eth, jane@btc.
+Example: johnny@eth, johnny@btc.
 One UPI ID supports multiple blockchains:
 john@eth → Ethereum wallet.
 john@btc → Bitcoin wallet.
@@ -20,21 +20,21 @@ john@btc → Bitcoin wallet.
 
 -Registration
 
-Users register a simple UPI ID (e.g., john) and link their wallet addresses for different blockchains.
+Users register a simple UPI ID (e.g., johnny) and link their wallet addresses for different blockchains.
 Example:
 Ethereum Wallet: 0xAbC123...
 Bitcoin Wallet: 1A1zP1...
 Sending Funds
 
-Sender inputs the UPI ID (e.g., john@eth) instead of the full address.
+Sender inputs the UPI ID (e.g., johnny@eth) instead of the full address.
 The system resolves the UPI ID to the linked blockchain address.
 Receiving Funds
 
-Recipients share their UPI ID, such as john@eth, rather than their complex wallet addresses.
+Recipients share their UPI ID, such as johnny@eth, rather than their complex wallet addresses.
 
 #Key Benefits
 
--Short & Memorable: Use john@eth instead of 0xAbC123....
+-Short & Memorable: Use johnny@eth instead of 0xAbC123....
 
 -Error-Free: No need to copy-paste long addresses.
 
